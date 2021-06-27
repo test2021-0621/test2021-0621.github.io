@@ -1,4 +1,4 @@
-docs/index2 
+docs/index
 
 [README](README)
 
